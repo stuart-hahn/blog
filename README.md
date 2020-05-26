@@ -1,3 +1,9 @@
+## Async Actions with Redux Thunk
+
+This project uses Redux Thunk to make async requests to an external API. It will fetch and display a list of blog posts and users from [jsonplaceholder](http://jsonplaceholder.typicode.com/).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
